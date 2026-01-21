@@ -1,2 +1,2 @@
-{"SET":{"key":"test","value":"work"}}
-{"SET":{"key":"x","value":"5"}}
+{"SET":{"key":"y","value":"20"}}
+{"SET":{"key":"x","value":"10"}}
